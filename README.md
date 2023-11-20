@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there! 
+
+### I'm an economics grad that loves to mess around with R and SQL. I also know a bit of Python, and am on my way to learning PowerBI. 
+
+### Reach me on
+[LinkedIn]([https://www.google.com](https://www.linkedin.com/in/nourhanghanima/))
 
 <!--
 **nourhanghanima/nourhanghanima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
